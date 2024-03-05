@@ -1,4 +1,4 @@
-## Hi, I'm Daniel
+## 👋 Hi, I'm Daniel
 
 - 🏫 Sophomore (2nd) Year Student at UW
 - 📚 Studying Computer Science
