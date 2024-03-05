@@ -1,8 +1,8 @@
 ## Hi, I'm Daniel
 
-# 🏫 Sophomore (2nd) Year Student at UW
-# 📚 Studying Computer Science
-# 🧠 Aspiring Innovator: Interested in SWE, ML/AI, Cloud
+### 🏫 Sophomore (2nd) Year Student at UW
+### 📚 Studying Computer Science
+### 🧠 Aspiring Innovator: Interested in SWE, ML/AI, Cloud
 
 <!--
 **danalzhang/danalzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
