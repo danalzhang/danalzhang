@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel 👋
 
-- 🏫 Sophomore (2nd) Year Student at UW
+- 🏫 Junior (3rd) Year Student at UW
 - 📚 Studying Computer Science
 - 🧠 Aspiring Innovator: Interested in SWE, ML/AI, Cloud, Cybersecurity
 
