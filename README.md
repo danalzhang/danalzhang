@@ -1,8 +1,8 @@
 ## Hi, I'm Daniel 👋
 
-- 🏫 Junior (3rd) Year Student at UW
+- 🏫 Student at UW (3A)
 - 📚 Studying Computer Science
-- 🧠 Aspiring Innovator: Interested in SWE, ML/AI, Cloud, Cybersecurity
+- 🧠 Interested in SWE, ML/AI, Cloud, Devops, Cybersecurity
 
 <!--
 **danalzhang/danalzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
