@@ -1,7 +1,7 @@
 ## Hi, I'm Daniel 👋
 
 - 🏫 Student at University of Waterloo
-- 📚 Studying Computer Science, Intended to specialize in Software Engineering
+- 📚 Studying Computer Science
 - 🧠 Interested in SWE, ML/AI, Cloud, Devops, Cybersecurity
 
 <!--
